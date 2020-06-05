@@ -40,13 +40,21 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+  - I learned how to use custom middle to make your code more dry and more readable,
+  - Use Router to keep http requests in different files
+
 - [ ] Describe Middleware?
+- Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 
 - [ ] Describe a Resource?
 
+  - Express running on node is a resourse
+
 - [ ] What can the API return to help clients know if a request was successful?
+- status code 200
 
 - [ ] How can we partition our application into sub-applications?
+- using express to build the api side of the application
 
 ## Minimum Viable Product
 
